@@ -1,0 +1,10 @@
+C:\Users\328-3\Desktop\ffff\bin\Debug\ffff.exe.config
+C:\Users\328-3\Desktop\ffff\bin\Debug\ffff.exe
+C:\Users\328-3\Desktop\ffff\bin\Debug\ffff.pdb
+C:\Users\328-3\Desktop\ffff\obj\Debug\ffff.csproj.AssemblyReference.cache
+C:\Users\328-3\Desktop\ffff\obj\Debug\ffff.Form1.resources
+C:\Users\328-3\Desktop\ffff\obj\Debug\ffff.Properties.Resources.resources
+C:\Users\328-3\Desktop\ffff\obj\Debug\ffff.csproj.GenerateResource.cache
+C:\Users\328-3\Desktop\ffff\obj\Debug\ffff.csproj.CoreCompileInputs.cache
+C:\Users\328-3\Desktop\ffff\obj\Debug\ffff.exe
+C:\Users\328-3\Desktop\ffff\obj\Debug\ffff.pdb
